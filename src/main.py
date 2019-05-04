@@ -9,4 +9,3 @@ added infy trail
 login fix applied
 login fix1 applied
 working log out
-working on the fix1 applied
